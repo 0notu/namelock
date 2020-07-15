@@ -1,2 +1,2 @@
 # DiscVal
-A short and sweet Discord bot for VALORANT
+locks a role, from editing, deletion, and removing.

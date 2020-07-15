@@ -1,2 +1,2 @@
-# DiscVal
-locks a role, from editing, deletion, and removing.
+# namelock
+locks a role from: editing, deletion, and removing.
